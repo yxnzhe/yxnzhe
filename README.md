@@ -14,7 +14,7 @@
 
 - 🌱 I'm working on [Renterr](https://github.com/yxnzhe/renterr)
 
-- 💼 Check out my previous project **[Elec Tricks](https://github.com/yxnzhe/ElectricBillCalculator)**
+- 💼 Check out my previous project **[Elec Tricks](https://yxnzhe.github.io/electric-bill-calculator)**
 
 - 📫 How to reach me **philberthengyz@gmail.com**
 
